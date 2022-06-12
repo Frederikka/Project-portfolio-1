@@ -1,0 +1,37 @@
+Testing
+
+
+Table of Contents
+Contents
+Code Validation
+W3C HTML Validator
+W3C CSS Validator
+Responsiveness
+Color Contrast Accessibility Validation
+Cross-Browser Testing
+Testing User Stories
+Prospective Visitors
+Bugs
+Resolved
+Unresolved
+Code Validation
+All the HTML and CSS codes have been tested in the W3C html Validator and the W3C CSS Validator. There was a minor bug in the contact.html file and it was easily fixed. Details are in the Bugs section.
+
+Back to contents
+
+W3C HTML Validator
+The main page, services page, contact form page and formdump page have been tested in the W3C HTML validator and below are the screenshots showing the test results.
+
+Home page
+W3C HTML Validator
+
+Services page
+W3C HTML Validator
+
+Contact form page
+W3C HTML Validator
+
+Formdump page
+W3C HTML Validator
+
+
