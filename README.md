@@ -22,11 +22,12 @@ Recyke is a freecycle community that is focused on helping people to make the be
 Content
 The content for the website was created by myself.
 
-The building of the website was based on the learning outcome from the Code Institute Programme.
+The building of the website was based on the content of the Code Institute Programme.
 
 # Media
 https://pxhere.com/
 https://coolors.co/
+https://fonts.google.com/
 
 # Websites..
 https://stackoverflow.com/
