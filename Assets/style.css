@@ -46,12 +46,14 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #618A61;
+    background-color: #FFDF64;
     
 }
 
 h2 {
     text-align: center;
     font-style: italic;
+    background-color: rgb(129, 193, 164, 0.6);
 }
 
 footer {
@@ -68,6 +70,7 @@ footer {
 .pagephoto {
     text-align: center;
     size: medium;
+    margin: 5%;
 
 }
 
@@ -75,12 +78,14 @@ footer {
     background-position: center;
     background-image: url("https://c.pxhere.com/photos/35/e8/planet_green_natural_earth_ecology_environment_eco_natural_design-853847.jpg!d");
     background-repeat: no-repeat;
+    margin: 5%;
 }
 
 .photo2 {
     background-position: center;
     background-image: url("https://c.pxhere.com/photos/d0/38/recycle_reuse_recycling_recyclable_symbol_reused_logo-1146683.jpg!d");
     background-repeat: no-repeat;
+    margin: 5%;
 }
 
 .photo3 {
@@ -100,9 +105,23 @@ footer {
 
 .textright {
     text-align: right;
-    margin-left: 75%;
-    position: right;
+    margin-left: 70%;
     padding: 5%;
-    
+    background-color: rgb(129, 193, 164, 0.6);
+
+}
+
+.media-buttons > li {
+    text-decoration: none;
+    display: inline;
+}
+
+/* Media Queries */
+
+@media screen and (min-width: 320px) {
+    .textright {
+    text-align: center;
+    margin-left: 0%;
+    }
     
 }
