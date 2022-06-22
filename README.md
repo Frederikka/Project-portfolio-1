@@ -28,6 +28,7 @@ The building of the website was based on the content of the Code Institute Progr
 https://pxhere.com/
 https://coolors.co/
 https://fonts.google.com/
+https://fontawesome.com/
 
 # Websites..
 https://stackoverflow.com/
