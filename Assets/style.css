@@ -50,14 +50,13 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 6px;
     color: #618A61;
-    background-color: #FFDF64;
-    
+  
 }
 
 h2 {
     text-align: center;
     font-style: italic;
-    background-color: rgb(129, 193, 164, 0.6);
+    
 }
 
 footer {
@@ -98,6 +97,15 @@ footer {
     background-repeat: no-repeat;
 }
 
+.h1-span {
+    background-color: #FFDF64;
+
+}
+
+.h2-span {
+    background-color: rgb(129, 193, 164, 0.6);
+}
+
 /* Style IDs*/
 
 
@@ -116,13 +124,28 @@ footer {
 }
 
 .media-buttons > li {
-    text-decoration: none;
+    position: relative;
     display: inline;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
 }
 
 /* Media Queries */
 
 @media screen and (max-width: 320px) {
+    .textright {
+    text-align: center;
+    margin-left: 0%;
+    }
+    
+}
+
+@media screen and (max-width: 767px) {
     .textright {
     text-align: center;
     margin-left: 0%;
