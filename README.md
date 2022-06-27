@@ -57,8 +57,8 @@ https://stackoverflow.com/
 https://www.w3schools.com/
 
 # Acknowledgements
-1. Spence Barriball mentor
-2. David Reynolds
+1. Spence Barriball, my mentor
+2. David Reynolds, my fellow 5p student who has been great to talk to and bounce off
 3. 5p Group
 4. Slack Community
 5. Family and friends

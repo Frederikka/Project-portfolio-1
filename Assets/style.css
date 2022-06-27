@@ -12,6 +12,7 @@ p {
     font-size: x-large;
 }
 
+/* nav bar */
 
 nav ul {
     list-style: none;
@@ -41,7 +42,7 @@ nav a:hover {
     background-color: white;
 }
 
-/* headings and logo */
+/* headings */
 
 h1 {
     text-align: center;
@@ -59,16 +60,8 @@ h2 {
     
 }
 
-footer {
-    display: inline-block;
-    bottom: 0;
-    left: 40%;
-    position: fixed;
-    
-}
 
-
-/* Style classes*/
+/* photos */
 
 .pagephoto {
     text-align: center;
@@ -82,20 +75,24 @@ footer {
     background-image: url("https://c.pxhere.com/photos/35/e8/planet_green_natural_earth_ecology_environment_eco_natural_design-853847.jpg!d");
     background-repeat: no-repeat;
     margin: 5%;
+    padding: 5%;
 }
 
 .photo2 {
     background-position: center;
     background-image: url("https://c.pxhere.com/photos/d0/38/recycle_reuse_recycling_recyclable_symbol_reused_logo-1146683.jpg!d");
     background-repeat: no-repeat;
-    margin: 5%;
+    margin: 2%;
 }
 
 .photo3 {
     background-image: url("https://c.pxhere.com/photos/30/9e/earth_globe_recycling_world_environment_ecology_symbol_environmentally_friendly_energy_protection-1144553.jpg!d");
     background-position: center;
     background-repeat: no-repeat;
+    
 }
+
+/* heading classes */
 
 .h1-span {
     background-color: #FFDF64;
@@ -106,12 +103,6 @@ footer {
     background-color: rgb(129, 193, 164, 0.6);
 }
 
-/* Style IDs*/
-
-
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
 
 /* Style classes*/
 
@@ -123,16 +114,27 @@ footer {
 
 }
 
+/* footer */
+
+footer {
+    height: 150px;
+    
+}
+
+
+.media-buttons {
+   text-align: center;
+}
+
 .media-buttons > li {
-    position: relative;
     display: inline;
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    border-radius: 50%;
-    text-decoration: none;
-    color: white;
-    font-size: 35px;
+}
+
+.media-buttons i {
+    font-size: 250%;
+    margin: 1%;
+    padding: 5%;
+    color: rgb(129, 193, 164, 1);
 }
 
 /* Media Queries */
