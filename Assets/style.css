@@ -18,8 +18,8 @@ nav ul {
     list-style: none;
     text-align: center;
     background-color: #FFDF64;
-    padding: 0;
-    margin: 0;
+    padding: 0, auto;
+    margin: 0, auto;
 }
 
 nav li {
@@ -74,15 +74,14 @@ h2 {
     background-position: center;
     background-image: url("https://c.pxhere.com/photos/35/e8/planet_green_natural_earth_ecology_environment_eco_natural_design-853847.jpg!d");
     background-repeat: no-repeat;
-    margin: 5%;
-    padding: 5%;
+    
 }
 
 .photo2 {
     background-position: center;
     background-image: url("https://c.pxhere.com/photos/d0/38/recycle_reuse_recycling_recyclable_symbol_reused_logo-1146683.jpg!d");
     background-repeat: no-repeat;
-    margin: 2%;
+    
 }
 
 .photo3 {
