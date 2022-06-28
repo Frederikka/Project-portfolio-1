@@ -5,12 +5,10 @@ Recyke is a freecycle community that is focused on helping people to make the be
 
 # Features
 
-This wesbite is for people who want to have a better impact on the planet and so is there to try help provide ways to achieve this. Recycke is designed to help people share ideas on how to do this. There is a navigation bar to help users navigate to the following sections:
-there is a home page explaining who Recycke are and what they aim to do. There are links to "their" social media sites. There is a tips page with basic ways to start getting involved. There is a contact section for people to get in touch with any suggestions. 
+This wesbite is for people who want to have a better impact on the planet and so is there to try help provide ways to achieve this. Recycke is designed to help people share ideas on how to do this. There is a navigation bar to help users navigate the site ![image](https://user-images.githubusercontent.com/104646542/176260344-f83ccd13-0da2-4126-8d38-7689c838cb87.png)
+there is a home page explaining who Recycke are and what they aim to do. There is a "where to find us" section with a map. ![image](https://user-images.githubusercontent.com/104646542/176263866-0ce4ed2f-38f4-4849-8cf1-20b794cc5752.png) There are links to "their" social media sites ![image](https://user-images.githubusercontent.com/104646542/176260909-12934db0-e007-4766-9f9c-f294ef832515.png) There is a tips page with basic ways to start getting involved. There is a contact section for people to get in touch with any suggestions. 
 There are background images for each page reflecting the ethos of the collective. 
 
-
-# Technologies used
 
 # Testing
 HTML
@@ -35,6 +33,9 @@ The site was deployed through github pages- source changed to main and made live
 
 The site can be found live here: https://frederikka.github.io/Project-template-portfolio-1/
 
+# Technologies used
+HTML & CSS
+
 # Credits
 Content:
 
@@ -48,6 +49,7 @@ The images for the backgrounds were found on: https://pxhere.com/
 A color pallette generator was used on: https://coolors.co/
 The main font link was taken from: https://fonts.google.com/
 The recyling icons were taken from: https://fontawesome.com/
+The map for the site was generated at: https://google-map-generator.com/
 
 Websites:
 

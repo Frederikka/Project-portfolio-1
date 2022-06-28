@@ -2,7 +2,7 @@
 body {
     background-color: #AFC97E;
     height: 100%;
-    margin-bottom: 65%;
+    margin-bottom: 0%;
     padding: 0;
     font-family: 'Roboto', sans-serif;
      
@@ -87,7 +87,7 @@ h2 {
     
 }
 
-/* heading classes */
+/* Style classes */
 
 .h1-span {
     background-color: #FFDF64;
@@ -95,11 +95,9 @@ h2 {
 }
 
 .h2-span {
-    background-color: rgb(129, 193, 164, 0.6);
+    background-color: #AFC97E;
 }
 
-
-/* Style classes*/
 
 .textright {
     text-align: right;
@@ -109,11 +107,20 @@ h2 {
 
 }
 
+.form {
+    text-align: center;
+}
+
+
+
+
 /* footer */
 
 footer {
     height: 150px;
+
     
+   
 }
 
 
@@ -126,11 +133,12 @@ footer {
 }
 
 .media-buttons i {
-    font-size: 250%;
+    font-size: 150%;
     margin: 1%;
     padding: 5%;
-    color: rgb(129, 193, 164, 1);
+    color: rgb(115, 147, 179);
 }
+
 
 /* Media Queries */
 
@@ -142,10 +150,11 @@ footer {
     
 }
 
-@media screen and (max-width: 767px) {
+
+@media screen and (max-width: 800px) {
     .textright {
     text-align: center;
     margin-left: 0%;
     }
-    
+
 }
