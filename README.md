@@ -35,10 +35,14 @@ There is a home page explaining who Recycke are and what they aim to do.
 
 # Testing
 HTML
-No errors were returned when passing through the official W3C validator
+No errors were returned when passing through the official W3C validator upon final testing.
 
 CSS
-No errors were returned when passing through the official CSS (Jigsaw) validator
+No errors were returned when passing through the official CSS (Jigsaw) validator upon final testing.
+
+The validators were great for testing throughout the project. I did find examples of stray code that it helped me to correct. For example I had put an "alt" attribute in my iframe to try and meet accessbility requirements but it informed me this is not possible in this element. Instead I replaced the tag as a title in the iframe, as according to webaim this is sufficient:
+
+![image](https://user-images.githubusercontent.com/104646542/176447058-7a280a0e-f697-47a7-9e40-e829bdb804d5.png)
 
 Using the problem bar in the coder also helped me to fix bugs. 
 Some examples are:
@@ -50,6 +54,8 @@ I used chrome developer tools to test the site to make sure it was designed resp
 
 
 # Unfixed bugs
+
+I found that trying to get my map to fit onto mobile screen was very difficult. After much work, I was unable to get a media query to fix this. A tutor suggested to use a CSS style rule instead and this at least got the map within a mobile frame but unfortunately cut some off. 
 
 
 # Deployment
@@ -70,12 +76,23 @@ The building of the website was based on the content of the Code Institute Progr
 
 Media:
 
-The images for the backgrounds were found on: https://pxhere.com/
-A color pallette generator was used on: https://coolors.co/
-The main font link was taken from: https://fonts.google.com/
-The recyling icons were taken from: https://fontawesome.com/
-The map for the site was generated at: https://google-map-generator.com/
-The multi-device mockup was generated at: http://techsini.com/multi-mockup/index.php
+The images for the backgrounds were found on:
+https://pxhere.com/
+
+A color pallette generator was used on:
+https://coolors.co/
+
+The main font link was taken from:
+https://fonts.google.com/
+
+The recyling icons were taken from:
+https://fontawesome.com/
+
+The map for the site was generated at:
+https://google-map-generator.com/
+
+The multi-device mockup was generated at:
+http://techsini.com/multi-mockup/index.php
 
 Websites:
 
@@ -84,12 +101,23 @@ These websites were used for extra advice and research throughout the project:
 https://stackoverflow.com/
 https://www.w3schools.com/
 
+(Some base code for solving issues has been used from these sites and hereby referenced to avoid plagiarism) https://www.w3schools.com/html/html_forms.asp 
+
+![image](https://user-images.githubusercontent.com/104646542/176444005-1008a0e7-8e3c-441f-b9b9-7c8f514694d0.png)
+
+
+This was also taken from the LoveRunning gitpod workspace that I made but under direction of the tutor:
+
+![image](https://user-images.githubusercontent.com/104646542/176444340-c911bc25-e9c5-4029-9e7d-6b4017923f7f.png)
+
+
 # Acknowledgements
 1. Spence Barriball, my mentor
-2. David Reynolds, my fellow 5p student who has been great to talk to and bounce off
-3. 5p Group
+2. David Reynolds, my fellow 5p student who has been great a great support since the course started
+3 The online tutors
+5. My 5p Group
 4. Slack Community
-5. Family and friends
+6. Family and friends
 
 Thank you to everyone who has supported me in my first project!
 
